@@ -4,9 +4,5 @@
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "face-api.js": "^0.22.2"
-  },
-  "scripts": {
-    "build": "npm install --prefix frontend/interview-prep-ai && npm run build --prefix frontend/interview-prep-ai",
-    "dev": "npm run dev --prefix frontend/interview-prep-ai"
   }
 }
